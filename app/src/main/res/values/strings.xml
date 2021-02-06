@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Verification</string>
+    <string name="verfication">Verfication</string>
+    <string name="we_will_send_you_password_on_this_mobile_to_validate">we will send you password on this mobile to validate</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_967">+967</string>
+    <string name="enter_the_code_that_sent_to_your_phone_number">Enter the code that sent to your Phone number</string>
+    <string name="didn_t_receive_the_code">Didn\'t receive the Code</string>
+    <string name="did_not_recieve_the_message">Did not recieve the message</string>
+    <string name="resend_otp">resend otp</string>
+    <string name="verify">Verify</string>
+</resources>
